@@ -1,16 +1,46 @@
-## Hi there 👋
+<h3 align="center">
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=Hesamabbasnezhad&no-bg=true&no-frame=true&column=6&row=1&margin-w=10&theme=matrix" />
+</h3>
+<br>
+<br>
+<br>
 
-<!--
-**Hesamabbasnezhad/Hesamabbasnezhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Skills Table -->
+<div align="center">
+    <div>
+        <h3> ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ </h3> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/php.png" alt="php" title="PHP"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/html.png" alt="html" title="HTML"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/css.png" alt="css" title="CSS"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/js.png" alt="js" title="JavaScript"/>
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/languages/cpp.png" alt="cpp" title="C++"/>    
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/bootstrap.png" alt="css,js" title="Bootstrap" /> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/vue.png" alt="vue" title="Vue"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/laravel.png" alt="php" title="Laravel"/>
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/frameworks/jquery.png" alt="js" title="Jquery"/>
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/editors/vscode.png" alt="x" title="VsCode"/> 
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/tools/git.png" alt="x" title="Git"/>
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/databases/postgresql.png" alt="x" title="PostgreSql"/>
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/databases/sqlite.png" alt="x" title="Sqlite"/>
+          <img width="50px" src="https://github.com/Kourva/AwesomeBadges/blob/main/Badges/distros/ubuntu.png" alt="x" title="Ubuntu"/>
+</div>
+<br>
+<br>
+<br>
 
-Here are some ideas to get you started:
+<h3 align="center">
+    <p> ᴀᴄᴄᴏᴜɴᴛ ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ </p> 
+        <img align="center" src="https://streak-stats.demolab.com?user=Hesamabbasnezhad&theme=transparent&hide_border=true&border_radius=10&locale=en&mode=weekly&card_width=800&background=00000000&ring=36ba01&currStreakLabel=ffffff&fire=ffffff&stroke=36ba01&sideLabels=ffffff&theme=hacker" />
+    <p>
+</h3>
+<br>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Account's Languages Stats -->
+<h3 align="center">
+    <br>
+    <p> ᴀᴄᴄᴏᴜɴᴛ ꜱᴛᴀᴛꜱ ᴀɴᴅ ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇꜱ </p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hesamabbasnezhad&show_icons=true&theme=transparent&bg-color=00000000&hide_border=false&title_color=ffffff&text_color=3bcf05&count_private=true&locale=en&rank_icon=percentile&border_color=00000000&border_radius=10&line_height=25&&show=reviews,discussions_started,discussions_answered&include_all_commits=true&text_bold=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesamabbasnezhad&langs_count=15&layout=compact&hide_border=false&theme=transparent&locale=en&title_color=ffffff&text_color=3bcf05&card_width=350&border_color=00000000&border_radius=10&line_height=30" />
+</h3> 
